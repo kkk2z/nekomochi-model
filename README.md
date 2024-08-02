@@ -1,6 +1,11 @@
 # nekomochi-model
 ねこもちのモデル
-ファイル配置と内容....
+# 茶番
+Revolt　chatのBotにのっけるAI作る用
+Ipad裏開発で、小説を募集したり。
+AIのべりすとを使用しました
+
+# ファイル配置と内容....
 nekomochi-model/
 │
 ├── data/
